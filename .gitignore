@@ -1,6 +1,24 @@
-/UCF3Class
-/UCF3Class_Balanced
-/UCF3Class_PartialBalanced
-/weights
-/weights_r2plus1d
-best_r2plus1d.pth
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+UCF3Class/
+UCF3Class_Balanced/
+UCF3Class_PartialBalanced/
+
+# VSCode
+.vscode/
+
+# Training outputs
+weights/
+runs/
+logs/
