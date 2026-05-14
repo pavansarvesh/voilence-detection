@@ -12,3 +12,4 @@ The model trained fast and reached a training accuracy of 99% within 20 epochs.
 ![](https://github.com/sanchit2843/Videoclassification/blob/master/assets/acc.png)
 
 ![](https://github.com/sanchit2843/Videoclassification/blob/master/assets/loss.png)
+# voilence-detection
